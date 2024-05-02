@@ -93,7 +93,7 @@ This project is licensed under the MIT License. Please see the LICENSE file for 
 ## Credits
 ---------
 
-This project was created by [Your Name] and is maintained by [Your Name]. Special thanks to OpenAI for providing their API and support.
+This project was created by Nikhil Bindal and is maintained by Nikhil Bindal. Special thanks to OpenAI for providing their API and support.
 
 ## Acknowledgments
 --------------
