@@ -34,7 +34,7 @@
         "mongodb": "^3.3.3",
         "mongoose": "^8.2.1",
         "morgan": "^1.9.1",
-        "openai": "^4.28.4",
+        "openai": "^4.83.0",
         "rotating-file-stream": "^1.4.6",
         "ts-node-dev": "^1.0.0-pre.43"
     },

@@ -5,6 +5,6 @@ import chatRoutes from "./chat";
 const router = express.Router();
 
 router.use('/user', userRoutes);    // route -> domain/api/v1/user
-router.use('/chats', chatRoutes);   // route -> domain/api/v1/chats
+router.use('/chat', chatRoutes);   // route -> domain/api/v1/chats
 
 export default router;
